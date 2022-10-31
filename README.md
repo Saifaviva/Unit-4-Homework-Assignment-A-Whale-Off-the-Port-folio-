@@ -1,5 +1,6 @@
 Unit 4 Homework Assignment: A Whale Off the Port(folio)
 
+![portfolio-analysis](https://user-images.githubusercontent.com/105663954/199072437-171a835a-018c-4577-9915-5633018a449d.png)
 
 Background
 Harold's company has been investing in algorithmic trading strategies. Some of the investment managers love them, some hate them, but they all think their way is best.
